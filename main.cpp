@@ -1,5 +1,5 @@
 #include <iostream>
-#include<omp.h>
+#include <omp.h>
 #include <X11/Xlib.h>
 #include <boost/graph/adjacency_list.hpp>
 #include <boost/config.hpp>
